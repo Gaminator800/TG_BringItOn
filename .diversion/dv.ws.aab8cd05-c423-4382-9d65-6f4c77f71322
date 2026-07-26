@@ -1,0 +1,15 @@
+{
+  "WorkspaceID": "dv.ws.aab8cd05-c423-4382-9d65-6f4c77f71322",
+  "RepoID": "dv.repo.264b3f86-7db1-4242-98c2-8cd45d73224c",
+  "Path": "C:\\UE5 Projects\\TG_BringItOn",
+  "AccountID": "Google_108477035833985477168",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.17",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "TheGaminator-BringItOn",
+  "ReadOnly": false,
+  "DigestMethod": "sha1",
+  "OrganizationTier": "UNKNOWN"
+}
